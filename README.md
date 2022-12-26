@@ -1,5 +1,5 @@
 # Hi, I am L1rz! 
-![Main OS](https://img.shields.io/badge/OS-Kubuntu-blue?style=for-the-badge&logo=linux "Main OS") ![Website](https://img.shields.io/badge/Website-nexthost.ml-blue?style=for-the-badge "NextHost")  ![Discord](https://img.shields.io/badge/vk.ru%2Fsecretdan-blue?style=for-the-badge&logo=vk "NextHost")
+![Main OS](https://img.shields.io/badge/OS-Xubuntu-blue?style=for-the-badge&logo=linux "Main OS") ![Website](https://img.shields.io/badge/Website-lirz.ru-blue?style=for-the-badge "lirz.ru")  ![Discord](https://img.shields.io/badge/vk.ru%2Fsecretdan-blue?style=for-the-badge&logo=vk "NextHost")
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/929330791308218388)](https://discord.com/users/929330791308218388) 
 
