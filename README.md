@@ -3,6 +3,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/929330791308218388)](https://discord.com/users/929330791308218388) 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12178716761&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12178716761&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12178716761&redirect=true)
 
 [![LZMODE](https://icecast.beatzone.cz/public/lzm/embed)](https://lirz.space) 
