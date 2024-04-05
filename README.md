@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Master290](https://github.com/Master290)
 
-- 📝 I sometimes write articles on [https://7311.rzx.lol](https://7311.rzx.lol)
-
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **dan@lirz.ru, contact@rzx.lol, daniar@remo.lol, dan@lirz.space**
+- 📫 How to reach me **dan@lirz.ru, daniar@remo.lol, dan@lirz.space**
 
 - ⚡ Fun fact **I like cookies**
 
@@ -42,4 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=master290&" alt="master290" /></p>
 
-<iframe src="https://cast.lzmode.online/public/lzmode/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
+
