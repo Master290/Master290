@@ -1,11 +1,7 @@
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=remolol)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=remolol&show_user=header)
 
 I love coding and music. 
 
-
-And cookies.
-
 https://restradio.ru
-
-
-Work @ https://cdnx.fun
+https://cdnx.fun
+https://dev.tatar
